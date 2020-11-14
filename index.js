@@ -17,7 +17,7 @@ window.addEventListener("load", () => {
        long = position.coords.longitude;
        lat = position.coords.latitude;
 
-      let api = `http://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&units=imperial&appid=8bc11677d842070a4cc2b26bd660d10a`;
+      let api = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&units=imperial&appid=8bc11677d842070a4cc2b26bd660d10a`;
       
 
        
