@@ -36,3 +36,6 @@ body {
 .degree-section h2 {
   font-size: 40px;
 }
+.temperature-description {
+  font-size: 2rem;
+}
